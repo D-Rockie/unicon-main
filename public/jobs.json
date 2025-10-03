@@ -1,0 +1,45 @@
+[
+  
+  {
+    "id": 2,
+    "title": "HR Manager",
+    "location": "Chennai, India",
+    "type": "Full-time",
+    "description": "Join our HR team to help build and nurture our company culture. You will manage recruitment, employee relations, and HR operations.",
+    "requirements": [
+      "3+ years of HR management experience",
+      "Strong communication and interpersonal skills",
+      "Knowledge of labor laws and HR best practices",
+      "Experience with HRIS systems"
+    ],
+    "posted_date": "2024-09-28"
+  },
+  {
+    "id": 3,
+    "title": "Security Guard",
+    "location": "Chennai, India",
+    "type": "Full-time",
+    "description": "Maintain security and safety of the premises. Monitor surveillance equipment, conduct regular patrols, and ensure the safety of employees and visitors.",
+    "requirements": [
+      "2+ years of security experience",
+      "Physical fitness and alertness",
+      "Basic knowledge of security systems",
+      "Good communication skills"
+    ],
+    "posted_date": "2024-09-28"
+  },
+  {
+    "id": 4,
+    "title": "Software Developer",
+    "location": "Chennai, India",
+    "type": "Full-time",
+    "description": "Develop and maintain web applications using modern technologies. Work with cross-functional teams to deliver high-quality software solutions.",
+    "requirements": [
+      "Bachelor's degree in Computer Science",
+      "Proficiency in React and Node.js",
+      "Strong problem-solving skills",
+      "Experience with version control systems"
+    ],
+    "posted_date": "2024-09-28"
+  }
+]
